@@ -12,6 +12,7 @@
 ### In the multiline graph, we can visualize the differences between city types based on the total fare earned each week. Urban cities consistently have the highest total fare each week, Rural cities have the lowest, and Suburban cities land in between.
 ![Multiple_Line_Graph](https://github.com/eoweed/PyBer_Analysis/blob/main/Resources/MultipleLineGraph.png)
 
+##
 
 ## Summary:
 ### Based on the results from the analysis, there are three business recommendations that I recommend.
